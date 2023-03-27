@@ -206,21 +206,5 @@
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Email</type>
-        <valueSet>
-            <restricted>true</restricted>
-            <valueSetDefinition>
-                <sorted>false</sorted>
-                <value>
-                    <fullName>Email</fullName>
-                    <default>false</default>
-                    <label>Email</label>
-                </value>
-                <value>
-                    <fullName>Manager</fullName>
-                    <default>false</default>
-                    <label>Manager</label>
-                </value>
-            </valueSetDefinition>
-        </valueSet>
     </fields>
 </CustomObject>
